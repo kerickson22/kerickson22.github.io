@@ -1,2 +1,12 @@
 theme: jekyll-theme-architect
 title: Welcome to kerickson22's homepage!
+author: Kelley D. Erickson
+email: kerickson22@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A portfolio of the data science projects I have been working on!
+# social links
+linkedin_username: kerickson22
+github_username: kerickson22  # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
