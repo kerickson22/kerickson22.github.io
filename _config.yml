@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Showcasing my latest data science projects
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minimal
+theme: architect
 
 twitter_username: kelephant22
 github_username:  kerickson22
